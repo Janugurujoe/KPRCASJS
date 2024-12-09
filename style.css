@@ -1,0 +1,24 @@
+#h2
+{
+    text-align:center;
+    text-decoration: solid;
+    background-color: aquamarine;
+    color:chartreuse;
+}
+.foot
+{
+    text-align:left;
+    text-decoration: solid;
+    background-color: rgb(168, 127, 255);
+    color:rgb(0, 255, 238);
+}
+a
+{
+    text-decoration: none;
+    color:brown;
+}
+#ul-style
+{
+    background-color: aqua;
+    color: seagreen;
+}
